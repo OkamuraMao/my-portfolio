@@ -1,0 +1,26 @@
+
+@charset "utf-8";
+.image img {
+    width:200px;
+    position: relative;
+  top: 0px;
+  left: 350px;
+}
+
+html {
+   background-color: #f5f5f5; 
+    
+}
+.title{
+    height : 30px;
+    border-bottom : solid 2px #FFA07A;
+}
+
+body{
+    background-color: #FFFFFF;　
+    width:400px;
+    height:850px;
+    margin:auto;
+    max-width:600px;
+    padding: 10px 20px;
+}
